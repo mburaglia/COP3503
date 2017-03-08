@@ -1,5 +1,5 @@
-# UF3503
-UF COP3503 AI Semester Project Team Spring 2017
+# COP3503
+COP3503 Term Project SP17
 
 Name all files in camelCase (e.g. myFileName.cpp). Avoid using spaces and underscores.
 
